@@ -1,4 +1,5 @@
 # Chapter 1
+Introducing Low-latency Application Development in C++
 
 ### What is latency?
 Latency is the time delay between when a task is started to the time when it is finished.
